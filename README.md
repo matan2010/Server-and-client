@@ -1,6 +1,7 @@
 # Server-and-client
 Study project
 
+## description
 The project was to build a server side in java and client side in c++ of an educational institution.
 
 You can connect to it as a lecturer or student,
